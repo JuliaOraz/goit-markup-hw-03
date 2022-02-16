@@ -46,6 +46,11 @@ ul {
   margin-left: auto;
   margin-right: auto;
 }
+
+.section {
+  padding-top: 94px;
+  padding-bottom: 94px;
+}
 /* logo */
 .logo {
   font-family: Raleway;
@@ -186,10 +191,6 @@ ul {
 }
 
 /* feature */
-.feature {
-  padding-top: 94px;
-  padding-bottom: 94px;
-}
 .feature-list {
   display: flex;
 }
@@ -210,7 +211,7 @@ ul {
 
 /* areas and team*/
 .areas {
-  padding-bottom: 94px;
+  padding-top: 0;
 }
 .areas-title,
 .team-title {
@@ -229,8 +230,6 @@ ul {
 }
 .team {
   background-color: var(--primary-color-bg);
-  padding-top: 94px;
-  padding-bottom: 94px;
 }
 .team-list {
   display: flex;
@@ -263,10 +262,6 @@ ul {
 }
 
 /* portfolio */
-.portfolio {
-  padding-top: 94px;
-  padding-bottom: 94px;
-}
 .portfolio-group {
   display: flex;
   justify-content: center;
