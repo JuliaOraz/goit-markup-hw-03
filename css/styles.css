@@ -161,6 +161,7 @@ ul {
 .hero {
   background-color: var(--dark-color-bg); /*временно поставила цвет фона:) */
   text-align: center;
+  padding: 200px 0;
 }
 .hero-title {
   margin-bottom: 30px;
