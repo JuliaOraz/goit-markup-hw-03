@@ -307,9 +307,10 @@ ul {
   margin-bottom: 0;
 }
 .portfolio-list a {
-  display: flex;
-  flex-direction: column;
   text-decoration: none;
+}
+.portfolio-list img {
+  display: block;
 }
 .portfolio-box {
   padding: 20px 24px;
